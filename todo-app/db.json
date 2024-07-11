@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Node.js",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Write an API",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "Read a book",
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "Anup",
+      "status": false
+    }
+  ]
+}
